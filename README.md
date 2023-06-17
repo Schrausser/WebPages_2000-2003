@@ -1,11 +1,15 @@
 # WebPages_2000-2003
 
-**diffpsy.html**
-
 **Official sites:  
 University of Graz  
 Institute of Psychology  
 Section of Differential Psychology (2000-2003)**
+
+**diffpsy.html**
+
+![figure.\label{pic0}](www2.jpg)
+
+![figure.\label{pic0}](www3.jpg)
 
 *The section of Differential Psychology deals with the following research topics:  
 The study of physiological correlates of human intelligence. In our own EEG laboratory high-definition EEG with up to 64 channels is used to study spatio-temporal patterns of cortical activation during performance of cognitive tasks and compare these patterns between individuals with different levels of psychometric intelligence.
