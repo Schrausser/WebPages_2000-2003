@@ -5,7 +5,7 @@ University of Graz
 Institute of Psychology  
 Section of Differential Psychology (2000-2003)**
 
-**diffpsy.html**
+`diffpsy.html`
 
 ![figure.\label{pic0}](www2.jpg)
 
